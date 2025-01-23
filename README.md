@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋!</h2>
-# My name is Adam BENZIDANE.
-# I'm currently a 3rd year student at Epitech Marseille, in France.
+My name is Adam BENZIDANE.
+I'm currently a 3rd year student at Epitech Marseille, in France.
 
 ###
 
